@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17768fdf216350645a6dbfb6b9c8dd6d
+timeCreated: 1485083419
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Clip_coin: {fileID: 8300000, guid: ea88d30ab675e5641a6f89f9d91695a2, type: 3}
+  - Clip_bigCoin: {fileID: 8300000, guid: 78e9d8a3db408f8408c0f08d2d12a161, type: 3}
+  - Source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
